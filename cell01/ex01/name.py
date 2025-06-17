@@ -1,4 +1,4 @@
 first_name = "sunjita"
-Iast_name = "wichajarn"
-whoIe_name = first_name + " " + Iast_name
-print(whoIe_mame)
+last_name = "wichajarn"
+whole_name = first_name + " " + last_name
+print(whole_name)
